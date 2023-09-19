@@ -78,7 +78,20 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/25efe6aa029c6baea73ea.jpg"
+    "START_IMG_URL", "https://graph.org/file/10dafdc710eb6e3ee469e.jpg"
+                    "https://graph.org/file/224bd60fa314722f98bf6.jpg"
+                    "https://graph.org/file/82cfaa6c4d09df2153e57.jpg"
+                    "https://graph.org/file/fab3d1d09513076dff810.jpg"
+                    "https://graph.org/file/dd20a34de2e051a38c878.jpg"
+                    "https://graph.org/file/7dfa63df67e93d69312f6.jpg"
+                    "https://graph.org/file/0cbf8de9e33aff4418818.jpg"
+                    "https://graph.org/file/00b9ebe60c82887956b69.jpg"
+                    "https://graph.org/file/ea97422373541e862bc33.jpg"
+                    "https://graph.org/file/d0b42f292ee5232dc2209.jpg"
+                    "https://graph.org/file/c6c74d6235537b2417407.jpg"
+                    "https://graph.org/file/193bf923d120a50bfa84f.jpg"
+                    "https://graph.org/file/c814d273038e082c0f791.jpg"
+                    "https://graph.org/file/6ed92054f6253368047ba.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/23fe3ea3615817f63b66e.jpg"
