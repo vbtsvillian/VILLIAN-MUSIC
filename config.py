@@ -81,7 +81,20 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://te.legra.ph/file/25efe6aa029c6baea73ea.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
+    "PING_IMG_URL", "https://graph.org/file/23fe3ea3615817f63b66e.jpg"
+                    "https://graph.org/file/717d51d89807cc7af988c.jpg"
+                    "https://graph.org/file/4f25b6bb9d306a18072fa.jpg"
+                    "https://graph.org/file/10159c98a3cdb10079ccb.jpg"
+                    "https://graph.org/file/4aa8b8df048863b93e157.jpg"
+                    "https://graph.org/file/6ed92054f6253368047ba.jpg"
+                    "https://graph.org/file/d0b42f292ee5232dc2209.jpg"
+                    "https://graph.org/file/ea97422373541e862bc33.jpg"
+                    "https://graph.org/file/de47280ed99e10d262b4a.jpg"
+                    "https://graph.org/file/7dfa63df67e93d69312f6.jpg"
+                    "https://graph.org/file/c0e934aab37544af99e53.jpg"
+                    "https://graph.org/file/dd20a34de2e051a38c878.jpg"
+                    "https://graph.org/file/df06c8a46fb0fd3589cf3.jpg"
+                    "https://graph.org/file/261eccc6a8d08ee57b91e.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
