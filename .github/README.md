@@ -1,10 +1,6 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「𝐕𝐈𝐋𝐋𝐈𝐀𝐍 𝐗 𝐏𝐋𝐀𝐘𝐄𝐑」──
 </h2>
-
-<p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
-</p>
 
 <p align="center">
 <a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
